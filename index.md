@@ -18,3 +18,8 @@
 $ git init
 /Users/skills/Projects/recipe-repository/.git/に空のGitリポジトリを初期化しました
 ```
+
+## タスクリスト
+- [ ] 未チェック
+- [x] チェック済
+- [×] 小文字×は対象外

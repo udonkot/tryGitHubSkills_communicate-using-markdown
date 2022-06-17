@@ -20,6 +20,6 @@ $ git init
 ```
 
 ## タスクリスト
-- [ ] task1
-- [ ] task2
-- [ ] task3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

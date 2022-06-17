@@ -20,6 +20,6 @@ $ git init
 ```
 
 ## タスクリスト
-- [ ] 未チェック
-- [x] チェック済
-- [×] 小文字×は対象外
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
